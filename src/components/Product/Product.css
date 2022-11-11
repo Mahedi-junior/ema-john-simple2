@@ -4,11 +4,11 @@
   border: 2px solid #95a0a7;
   border-radius: 8px;
   position: relative;
+  opacity: 1;
 }
 .product:hover {
   border: 2px solid #55d9fd;
-  z-index: 9999;
-  box-shadow: 8px 8px 0px #dbd8d3;
+  box-shadow: 8px 8px 0px #8f8e8d;
 }
 .product img {
   width: 286px;
@@ -16,6 +16,7 @@
   border-radius: 8px;
   margin: 7px;
 }
+
 .product-info {
   margin: 0 14px;
 }
